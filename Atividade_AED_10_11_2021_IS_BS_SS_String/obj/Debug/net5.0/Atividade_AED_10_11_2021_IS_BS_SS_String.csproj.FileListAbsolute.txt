@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.exe
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.deps.json
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\ref\Atividade_AED_10_11_2021_IS_BS_SS_String.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\bin\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\ref\Atividade_AED_10_11_2021_IS_BS_SS_String.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_10_11_2021_IS_BS_SS_String\obj\Debug\net5.0\Atividade_AED_10_11_2021_IS_BS_SS_String.genruntimeconfig.cache

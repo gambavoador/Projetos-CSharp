@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\Atividade 5.exe
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\Atividade 5.deps.json
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\Atividade 5.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\Atividade 5.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\Atividade 5.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\ref\Atividade 5.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\bin\Debug\net5.0\Atividade 5.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\ref\Atividade 5.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade 5\obj\Debug\net5.0\Atividade 5.genruntimeconfig.cache

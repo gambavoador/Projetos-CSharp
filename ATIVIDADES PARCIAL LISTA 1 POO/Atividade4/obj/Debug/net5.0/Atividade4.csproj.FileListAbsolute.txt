@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\Atividade4.exe
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\Atividade4.deps.json
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\Atividade4.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\Atividade4.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\Atividade4.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\ref\Atividade4.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade4\bin\Debug\net5.0\Atividade4.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\ref\Atividade4.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade4\obj\Debug\net5.0\Atividade4.genruntimeconfig.cache

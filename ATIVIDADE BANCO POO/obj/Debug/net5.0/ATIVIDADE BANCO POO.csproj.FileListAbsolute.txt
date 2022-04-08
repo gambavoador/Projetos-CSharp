@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ATIVIDADE BANCO POO.exe
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ATIVIDADE BANCO POO.deps.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ATIVIDADE BANCO POO.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ATIVIDADE BANCO POO.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ATIVIDADE BANCO POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ref\ATIVIDADE BANCO POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\bin\Debug\net5.0\ATIVIDADE BANCO POO.pdb
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ref\ATIVIDADE BANCO POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.pdb
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE BANCO POO\obj\Debug\net5.0\ATIVIDADE BANCO POO.genruntimeconfig.cache

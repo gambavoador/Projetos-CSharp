@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Atividade_AED_10_11_2021_IS_BS_SS_String/1.0.0": {
+        "runtime": {
+          "Atividade_AED_10_11_2021_IS_BS_SS_String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_AED_10_11_2021_IS_BS_SS_String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

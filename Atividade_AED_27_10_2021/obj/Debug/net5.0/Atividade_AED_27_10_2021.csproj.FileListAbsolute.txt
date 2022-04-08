@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\Atividade_AED_27_10_2021.exe
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\Atividade_AED_27_10_2021.deps.json
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\Atividade_AED_27_10_2021.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\Atividade_AED_27_10_2021.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\Atividade_AED_27_10_2021.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\ref\Atividade_AED_27_10_2021.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\bin\Debug\net5.0\Atividade_AED_27_10_2021.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\ref\Atividade_AED_27_10_2021.dll
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.pdb
+D:\Documentos\programação testes\VS STUDIO\Atividade_AED_27_10_2021\obj\Debug\net5.0\Atividade_AED_27_10_2021.genruntimeconfig.cache

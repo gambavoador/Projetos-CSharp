@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ATIVIDADE ELEVADOR POO.exe
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ATIVIDADE ELEVADOR POO.deps.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ATIVIDADE ELEVADOR POO.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ATIVIDADE ELEVADOR POO.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ATIVIDADE ELEVADOR POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ref\ATIVIDADE ELEVADOR POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\bin\Debug\net5.0\ATIVIDADE ELEVADOR POO.pdb
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ref\ATIVIDADE ELEVADOR POO.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.pdb
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE ELEVADOR POO\obj\Debug\net5.0\ATIVIDADE ELEVADOR POO.genruntimeconfig.cache

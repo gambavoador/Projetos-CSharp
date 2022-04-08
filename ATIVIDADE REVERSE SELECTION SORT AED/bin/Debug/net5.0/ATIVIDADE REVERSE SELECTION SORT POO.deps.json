@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ATIVIDADE REVERSE SELECTION SORT POO/1.0.0": {
+        "runtime": {
+          "ATIVIDADE REVERSE SELECTION SORT POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATIVIDADE REVERSE SELECTION SORT POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

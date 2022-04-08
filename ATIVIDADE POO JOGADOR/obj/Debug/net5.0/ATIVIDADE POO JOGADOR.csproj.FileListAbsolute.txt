@@ -1,0 +1,16 @@
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ATIVIDADE POO JOGADOR.exe
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ATIVIDADE POO JOGADOR.deps.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ATIVIDADE POO JOGADOR.runtimeconfig.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ATIVIDADE POO JOGADOR.runtimeconfig.dev.json
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ATIVIDADE POO JOGADOR.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ref\ATIVIDADE POO JOGADOR.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\bin\Debug\net5.0\ATIVIDADE POO JOGADOR.pdb
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.csproj.AssemblyReference.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.AssemblyInfoInputs.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.AssemblyInfo.cs
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.csproj.CoreCompileInputs.cache
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ref\ATIVIDADE POO JOGADOR.dll
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.pdb
+D:\Documentos\programação testes\VS STUDIO\ATIVIDADE POO JOGADOR\obj\Debug\net5.0\ATIVIDADE POO JOGADOR.genruntimeconfig.cache
